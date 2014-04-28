@@ -1,5 +1,5 @@
 Software Development
-	- Aggregators & Communities
+    - Aggregators & Communities
     - Blogs & News 
     - Learning
     - Tools
@@ -9,7 +9,7 @@ Software Development
     (- Jobs)
     
 Computer Science
-	- Aggregators & Communities
+    - Aggregators & Communities
     - Blogs & News 
     - Learning
     - Resources
@@ -17,7 +17,7 @@ Computer Science
     - Books
     
 Webdev
-	- Aggregators & Communities
+    - Aggregators & Communities
     - Blogs & News 
     - Learning
     - Code Snippets
@@ -29,7 +29,7 @@ Webdev
     (- Jobs)
     
 IT
-	- Aggregators & Communities
+    - Aggregators & Communities
     - Blogs & News 
     - Learning
     - Tools
