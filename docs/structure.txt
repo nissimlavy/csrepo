@@ -1,0 +1,32 @@
+General
+    -Aggregators 
+
+Software Development
+    - Blogs & News 
+    - Learning
+    - Tools
+    - Resources
+    - Community
+    - Books
+    (- Jobs)
+    
+Computer Science
+    
+Webdev
+    - Blogs & News 
+    - Learning
+    - Code Snippets
+    - Inspiration
+    - Tools
+    - Resources
+    - Community
+    - Books
+    (- Jobs)
+IT
+    - Blogs & News 
+    - Learning
+    - Tools
+    - Resources
+    - Community
+    - Books
+    (- Jobs)
