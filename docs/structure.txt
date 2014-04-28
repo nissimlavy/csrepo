@@ -11,6 +11,11 @@ Software Development
     (- Jobs)
     
 Computer Science
+    - Blogs & News 
+    - Learning
+    - Resources
+    - Community
+    - Books
     
 Webdev
     - Blogs & News 
@@ -22,6 +27,7 @@ Webdev
     - Community
     - Books
     (- Jobs)
+    
 IT
     - Blogs & News 
     - Learning
